@@ -61,7 +61,8 @@
     "lt": { "name": "Lithuanian" },
     "lv": { "name": "Latvian" },
     "mk": { "name": "Macedonian" },
-    "mg": { "name": "Malagasy" }
+    "mg": { "name": "Malagasy" },
+    "ms": { "name": "Malay" },
 
 
 }

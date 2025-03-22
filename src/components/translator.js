@@ -1,3 +1,8 @@
+import React, { useState } from 'react'
+import './translator.css'
+import languageList from './language.json';
+
+
 export default function Translator() {
     const[inputFormat, setInputFormat] = useState('en');
     const[outputFormat, setOutputFormat] = useState('hi');

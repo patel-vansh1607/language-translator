@@ -31,7 +31,8 @@
     "gl": {"name": "Galician"},
     "ka": {"name": "Georgian" },
     "de": {"name": "German"},
-    "el": {"name": "Greek, Modern"}
+    "el": {"name": "Greek, Modern"},
+    "gn": {"name": "Guaraní"}
 
 
 }

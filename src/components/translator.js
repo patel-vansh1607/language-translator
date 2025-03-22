@@ -17,5 +17,11 @@ export default function Translator() {
         setTranslatedText('Translation');
     }
 
+    const handleTranslate = () => {
+        if(!inputText || !inputFormat || !outputFormat) return;
+        document.querySelector('.fa.fa-spinner.fa-spin').style.display = 'block';
+            document.querySelector('.translate').style.display = 'none';
+    }
+
 
 }

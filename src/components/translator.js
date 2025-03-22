@@ -12,6 +12,10 @@ export default function Translator() {
         setTranslatedText('Translation');
     }
 
+    const handleRemoveInputText = () => {
+        setInputText('');
+        setTranslatedText('Translation');
+    }
 
 
 }

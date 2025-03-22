@@ -32,7 +32,8 @@
     "ka": {"name": "Georgian" },
     "de": {"name": "German"},
     "el": {"name": "Greek, Modern"},
-    "gn": {"name": "Guaraní"}
+    "gn": {"name": "Guaraní"},
+    "gu": {"name": "Gujarati"},
 
 
 }

@@ -2,5 +2,7 @@
     "af": { "name": "Afrikaans" },
     "ak": { "name": "Akan" },
     "sq": { "name": "Albanian" },
-    "am": { "name": "Amharic"}
+    "am": { "name": "Amharic"},
+    "ar": { "name": "Arabic"}
+
 }
